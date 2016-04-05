@@ -6,6 +6,9 @@ from scipy.linalg import solve_triangular
 def decompose(A):
     pass
 
+def is_sdd(A):
+    pass
+
 def jacobi_step(D, L, U, b, xk):
     pass
 

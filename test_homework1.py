@@ -23,6 +23,7 @@ from homework1.exercise1 import collatz_step, collatz
 from homework1.exercise2 import gradient_step, gradient_descent
 from homework1.exercise3 import (
     decompose,
+    is_sdd,
     jacobi_step,
     jacobi_iteration,
     gauss_seidel_step,
